@@ -1,0 +1,11 @@
+opencv-python
+numpy
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+aiofiles
+requests
+python-dotenv
+ultralytics   # optional: ultralytics yolov8 wrapper
+twilio
